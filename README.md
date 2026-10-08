@@ -73,16 +73,16 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Canva | Design | `https://mcp.canva.com/mcp` | OAuth2.1 | [Canva](https://canva.com) |
 | Carbon Voice | Productivity | `https://mcp.carbonvoice.app` | OAuth2.1 | [Carbon Voice](https://getcarbon.app) |
 | Circleback | Meeting Notes | `https://circleback.ai/api/mcp` | OAuth2.1 | [Circleback](https://circleback.ai) |
-| Claim | Marketing | `https://claim-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/claim) |
+| Claim by Ouroboros Apps | Marketing | `https://claim-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/claim) |
 | ClickUp | Project Management | `https://mcp.clickup.com/mcp` | OAuth2.1 🔐 | [ClickUp](https://clickup.com) |
 | Close CRM | CRM | `https://mcp.close.com/mcp` | OAuth2.1 🔐 & API Key | [Close](https://close.com/) |
 | Cloudflare Workers | Software Development | `https://bindings.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudflare Observability | Observability | `https://observability.mcp.cloudflare.com/sse` | OAuth2.1 | [Cloudflare](https://cloudflare.com) |
 | Cloudinary | Asset Management | `https://asset-management.mcp.cloudinary.com/sse` | OAuth2.1 | [Cloudinary](https://cloudinary.com) |
-| Continuity | Writing | `https://continuitywriter.com/mcp` | OAuth2.1 | [Continuity](https://continuitywriter.com) |
+| [Continuity by Ouroboros Apps](https://continuitywriter.com) | Writing | `https://continuitywriter.com/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com) |
 | Cortex | Internal Developer Portal | `https://mcp.cortex.io/mcp` | API Key | [Cortex](https://cortex.io) |
-| Deposit | Payments | `https://deposit-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/deposit) |
-| Desk | Customer Support | `https://desk-mcp-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/desk) |
+| Deposit by Ouroboros Apps | Payments | `https://deposit-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/deposit) |
+| Desk by Ouroboros Apps | Customer Support | `https://desk-mcp-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/desk) |
 | Dialer | Outbound Phone Calls | `https://getdialer.app/sse` | OAuth2.1 | [Dialer](https://getdialer.app) |
 | EAN-Search.org | Product Data | `https://www.ean-search.org/mcp` | OAuth2.1 | [EAN-Search.org](https://www.ean-search.org) |
 | Egnyte | Document Management | `https://mcp-server.egnyte.com/sse` | OAuth2.1 | [Egnyte](https://egnyte.com) |
@@ -100,7 +100,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Intercom | Customer Support | `https://mcp.intercom.com/sse` | OAuth2.1 | [Intercom](https://intercom.com) |
 | Indeed | Job Board | `https://mcp.indeed.com/claude/mcp` | OAuth2.1 | [Indeed](https://indeed.com) |
 | Invidio | Video Platform | `https://mcp.invideo.io/sse` | OAuth2.1 | [Invidio](https://invideo.io/) |
-| Invoice | Payments | `https://invoice-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/invoice) |
+| Invoice by Ouroboros Apps | Payments | `https://invoice-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/invoice) |
 | Jam | Software Development | `https://mcp.jam.dev/mcp` | OAuth2.1 | [Jam.dev](https://jam.dev/) |
 | Kollektiv | Documentation | `https://mcp.thekollektiv.ai/sse` | Oauth2.1 | [Kollektiv](https://github.com/alexander-zuev/kollektiv-mcp) |
 | LiveScore MCP | Sports | `https://livescoremcp.com/sse` | Open | [LiveScore MCP](https://github.com/holoduke/livescore-mcp) |
@@ -109,7 +109,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Malware Patrol | Threat Intelligence | `https://mcp.malwarepatrol.net/v1` | API Key | [Malware Patrol](https://malwarepatrol.net) |
 | Meta Ads by Pipeboard | Advertising | `https://mcp.pipeboard.co/meta-ads-mcp` | OAuth2.1 | [Pipeboard](https://pipeboard.co) |
 | Metro MCP | Transit | `https://metro-mcp.anuragd.me/sse` | OAuth2.1 | [Anurag](https://metro-mcp.anuragd.me/) |
-| Milestone | Project Management | `https://milestone-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/milestone) |
+| Milestone by Ouroboros Apps | Project Management | `https://milestone-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/milestone) |
 | Miro | Design | `https://mcp.miro.com/` | OAuth2.1 | [Miro](https://miro.com) |
 | MorningStar | Data Analysis | `https://mcp.morningstar.com/mcp` | OAuth2.1 | [MorningStar](https://morningstar.com) |
 | monday.com | Productivity | `https://mcp.monday.com/sse` | OAuth2.1 |  [monday MCP](https://github.com/mondaycom/mcp) |
@@ -128,10 +128,10 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Prisma Postgres | Database |  `https://mcp.prisma.io/mcp` | OAuth2.1 | [Prisma Postgres](https://www.prisma.io/docs/postgres/integrations/mcp-server#remote-mcp-server)
 | Port IO | Internal Developer Portal | `https://mcp.port.io/v1` | OAuth2.1 | [Port IO](https://port.io) |
 | Ramp | Payments | `https://ramp-mcp-remote.ramp.com/mcp` | OAuth2.1 | [Ramp](https://ramp.com) |
-| Rank | Data Analysis | `https://rank.ouroborosapps.com/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/rank) |
+| Rank by Ouroboros Apps | Data Analysis | `https://rank.ouroborosapps.com/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/rank) |
 | Read AI | Meeting Notes | `https://api.read.ai/mcp` | OAuth2.1 | [Read AI](https://read.ai) |
 | Rube | Other | `https://rube.app/mcp` | Oauth2.1 | [Composio](https://composio.dev) |
-| Scope | Project Management | `https://scope-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/scope) |
+| Scope by Ouroboros Apps | Project Management | `https://scope-continuity2.vercel.app/mcp` | OAuth2.1 | [Ouroboros Apps](https://ouroborosapps.com/docs/scope) |
 | Scorecard | AI Evaluation | `https://scorecard-mcp.dare-d5b.workers.dev/sse` | OAuth2.1 | [Scorecard](https://scorecard.io) |
 | Sentry | Software Development | `https://mcp.sentry.dev/sse` | OAuth2.1 | [Sentry](https://sentry.io) |
 | Slack | Communication | `https://mcp.slack.com/mcp` | OAuth2.1 🔐 | [Slack](https://slack.com) |
